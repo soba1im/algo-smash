@@ -2,7 +2,7 @@
 
 - **팀원 velog/티스토리/블로그** :
     - 지민 tistory: https://wlals916.tistory.com/category/Algorithms
-    - (추가 작성/편집)
+    - 희선 velog: https://velog.io/@lissani/posts
 
 ---
 
